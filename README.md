@@ -136,7 +136,7 @@ lib/
 
 ### Cloner le dépôt et installer les dépendances
 ```bash
-git clone <url-du-depot>
+git clone https://github.com/saliemmanuel/apic_cards.git
 cd apic_cards
 flutter pub get
 ```
